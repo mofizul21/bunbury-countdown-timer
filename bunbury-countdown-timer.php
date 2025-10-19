@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Bunbury Countdown Timer
  * Description: A simple countdown timer plugin.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: WP Algo
  * Author URI: https://wpalgo.com
  * License: GPL-2.0+

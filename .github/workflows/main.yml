@@ -49,7 +49,7 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           tag_name: ${{ steps.version.outputs.tag }}
-          release_name: Release ${{ steps.version.outputs.tag }}
+          name: Release ${{ steps.version.outputs.tag }}
           files: bunbury-countdown-timer.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
