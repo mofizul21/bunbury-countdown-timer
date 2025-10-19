@@ -1,0 +1,8 @@
+.bct-countdown-timer-wrapper {
+    padding: 10px 15px;
+    text-align: center;
+}
+
+.bct-countdown-timer-wrapper strong {
+    font-weight: bold;
+}
