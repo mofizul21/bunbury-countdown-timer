@@ -1,0 +1,12 @@
+# Composer dependencies
+/vendor/
+
+# PHPUnit cache
+.phpunit.result.cache
+
+# macOS files
+.DS_Store
+
+# Build directories (for the future)
+/node_modules/
+/build/
